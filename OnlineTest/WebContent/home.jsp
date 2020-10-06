@@ -8,7 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%=new Date() %>
+    <h1>Test Page</h1>
+    
+Current Date: <%=new Date() %>
 <!--GitHub Connection https://www.youtube.com/watch?v=LPT7v69guVY -->
 </body>
 </html>
